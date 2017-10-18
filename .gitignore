@@ -2,5 +2,7 @@
 *.log
 *.gz
 *.dvi
+*.bbl
+*.blg
 ID
 pago*
